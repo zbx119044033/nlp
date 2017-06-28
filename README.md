@@ -7,6 +7,8 @@ jieba
 ltp
 
 # desc
+The doc userdict2.txt is the user-defined dictionary for jieba word segment.
+The doc stopwords.txt is the user-defined dictionary for key word extraction.
 The module key_word is used for word segment and key words seeking via jieba.
 The module ltp is used for parsing via ltp_cloud.
 The module search is used to find answer for questiones via key words and rules extracted from modules above.
